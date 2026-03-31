@@ -1,5 +1,7 @@
 ## Hi I'm Erniyazova Gawxar 👋
 
+### Software engineer student 
+
 <!--
 **erniyazovaswe/erniyazovaswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
